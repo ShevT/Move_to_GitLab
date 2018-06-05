@@ -1,5 +1,5 @@
-# all_move_to_gitlab
-Moved to https://gitlab.com/ShevT
+
+# Moved to https://gitlab.com/ShevT
 
 Due to the fact that github sold out micro$oft, I do not want to deal with it anymore.
 All my projects have been transferred to GitLab.
